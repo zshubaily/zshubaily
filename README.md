@@ -1,7 +1,7 @@
 - 👋 Hi,  
 - 👀 I’m @zshubaily
-- 🌱 I’m looking to build an SaaS or Fintech product.
-- 💞️ I’m looking to collaborate on Github open-source projects 
+- 🌱 I’m looking to build a Fintech or SaaS product or service
+- 💞️ I’m yearn to collaborate on Github open-source projects 
 - 📫 How to reach me 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
